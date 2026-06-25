@@ -7,7 +7,7 @@ The event spawns a Flatbed vehicle at a random location. Biker faction members m
 ## Preview
 
 <p align="center">
-  <img src="preview.png" width="750">
+  <img src="preview.png" width="725">
 </p>
 
 ## Features
