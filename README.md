@@ -47,7 +47,7 @@ Default event settings:
 * Event duration: 30 minutes
 * Event cooldown: 90 minutes + random delay
 * Event vehicle: Flatbed
-* Supported factions: 10 biker factions
+* Supported factions: 10 biker factions 
 
 ## Development Commands
 
